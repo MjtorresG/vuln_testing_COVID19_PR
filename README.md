@@ -1,1 +1,1 @@
-# vuln_testing_COVID19_PR
+# Social Vulnerability and COVID-19 Testing
